@@ -197,7 +197,7 @@ Key achievements:
 
 ## Amazon S3 Question
 
-![Amazon S3 Question](screenshots/SS1.png)
+![Amazon S3 Question](challenge-1/screenshots/SS1.png)
 
 
 
