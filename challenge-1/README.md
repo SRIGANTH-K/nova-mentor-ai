@@ -253,4 +253,4 @@ NOVA Mentor AI is the first step toward building more advanced AI systems using:
 # 🏗️ Architecture Diagram
 
 
-![NOVA Mentor AI Architecture](screenshots/Architecture.png)
+![NOVA Mentor AI Architecture](screenshots/Challenge-1-Architecture.png)
