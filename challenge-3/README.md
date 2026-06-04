@@ -120,7 +120,7 @@ Example:
 
 
 ```text
-Remember that my name is Thamarai
+I am Sri Ganth K from Sivagangai district.
 ```
 
 
@@ -143,7 +143,7 @@ Example:
 
 
 ```text
-Remember that I want to become a GenAI Engineer
+I am well in Web Development. I want to become as an AI Agent Developer
 ```
 
 
