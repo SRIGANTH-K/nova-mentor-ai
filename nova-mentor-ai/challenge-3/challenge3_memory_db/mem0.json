@@ -1,0 +1,35 @@
+{
+  "docstore": {
+    "b1975d13-de14-4fcd-8b88-f57bf726a4d5": {
+      "user_id": "challenge3_user",
+      "data": "User is Sri",
+      "text_lemmatized": "user sri",
+      "hash": "6c9094f54c2726af60191d1c2c392a6c",
+      "created_at": "2026-06-03T18:24:06.866995+00:00",
+      "updated_at": "2026-06-03T18:24:06.866995+00:00",
+      "attributed_to": "user"
+    },
+    "efcd8e65-3b2a-47be-96fa-4c8a4ae80d69": {
+      "user_id": "challenge3_user",
+      "data": "User loves cricket",
+      "text_lemmatized": "user love cricket",
+      "hash": "48e339c9c9b02bf0e035617c981c2e39",
+      "created_at": "2026-06-03T18:24:41.719699+00:00",
+      "updated_at": "2026-06-03T18:24:41.719699+00:00",
+      "attributed_to": "user"
+    },
+    "2de89041-f93f-4d03-a16c-33cf0b13f43f": {
+      "user_id": "challenge3_user",
+      "data": "User is unsure of their identity",
+      "text_lemmatized": "user unsure identity",
+      "hash": "bcfd1f9423bd9644ea164441da16b94b",
+      "created_at": "2026-06-03T18:25:02.002999+00:00",
+      "updated_at": "2026-06-03T18:25:02.002999+00:00"
+    }
+  },
+  "index_to_id": {
+    "0": "b1975d13-de14-4fcd-8b88-f57bf726a4d5",
+    "1": "efcd8e65-3b2a-47be-96fa-4c8a4ae80d69",
+    "2": "2de89041-f93f-4d03-a16c-33cf0b13f43f"
+  }
+}
