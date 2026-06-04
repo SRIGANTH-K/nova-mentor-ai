@@ -459,7 +459,7 @@ User:
 
 
 ```text
-What is the weather in Chennai?
+What is 123 * 321?
 ```
 
 
@@ -467,8 +467,7 @@ AI:
 
 
 ```text
-Provides current weather information
-```
+39,483```
 
 
 
@@ -479,7 +478,7 @@ User:
 
 
 ```text
-What is 42 * 17?
+What is the weather in Madurai?
 ```
 
 
@@ -487,7 +486,8 @@ AI:
 
 
 ```text
-714
+
+Provides current weather information
 ```
 
 
