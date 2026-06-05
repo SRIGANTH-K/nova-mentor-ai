@@ -12,7 +12,7 @@ Amazon EC2 provides virtual servers in the cloud.
 
 Amazon DynamoDB is a fully managed NoSQL database.
 
-Amazon RDS provides managed relational databases.
+Amazon RDS provides managed relational databases. 
 
 AWS CloudFormation helps automate infrastructure deployment.
 
