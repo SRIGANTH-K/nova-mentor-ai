@@ -1,7 +1,7 @@
 # 🧠 Challenge 3 – NOVA Mentor AI Memory Agent
 
 ## Persistent AI Memory Architecture using Amazon Nova Pro + Strands SDK + mem0 + FAISS
-
+ 
 
 # 🚀 Overview
 
