@@ -13,7 +13,7 @@ Challenge 4 upgrades **NOVA Mentor AI** into a complete production-style AI Agen
 
 using **Amazon Bedrock, Amazon Nova Pro, Strands Agents SDK, mem0, and OpenSearch**.
 
-
+ 
 Previous challenges:
 
 - Challenge 1 → Basic AI Agent
