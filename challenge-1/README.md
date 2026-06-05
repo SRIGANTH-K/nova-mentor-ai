@@ -10,7 +10,7 @@ As part of the AWS User Group Madurai Builders Skill Sprint Challenge, I built *
 Unlike traditional AI assistants, this project runs completely on a local machine using **Ollama** and **Llama 3.2 (3B)** without requiring cloud APIs or paid AI services.
 
 The objective of this challenge was to understand the fundamentals of **AI Agents using Strands Agents SDK** and explore how Large Language Models can be integrated into real-world learning assistants.
-
+ 
 
 ## 🎯 Challenge Objective
 
