@@ -1,0 +1,29 @@
+AWS Campus Mentor AI Knowledge Base
+
+Amazon Bedrock is a fully managed service that provides access to foundation models.
+
+Amazon Nova Pro is a powerful multimodal foundation model available through Amazon Bedrock.
+
+AWS Lambda is a serverless compute service.
+
+Amazon S3 is an object storage service.
+
+Amazon EC2 provides virtual servers in the cloud.
+
+Amazon DynamoDB is a fully managed NoSQL database.
+
+Amazon RDS provides managed relational databases.
+
+AWS CloudFormation helps automate infrastructure deployment.
+
+AWS IAM manages authentication and permissions.
+
+AWS Cloud Club KIT is a student cloud community at Karpagam Institute of Technology.
+
+Sri Ganth K is the AWS Cloud Club KIT Champ's Member.
+
+Sri Ganth K studies at Karpagam Institute of Technology.
+
+Sri Ganth K wants to become an AI Agent Developer.
+
+AWS User Group Madurai conducts community learning programs and Builders Skill Sprint challenges.
