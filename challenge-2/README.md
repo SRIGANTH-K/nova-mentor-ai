@@ -3,7 +3,7 @@
 ## AI Agent with Tool Calling using Amazon Nova Pro + Strands SDK
 
 
-## 📖 Overview
+## 📖 Overview 
 
 This project demonstrates an advanced AI assistant built using **Amazon Nova Pro, Amazon Bedrock, and Strands Agents SDK**.
 
